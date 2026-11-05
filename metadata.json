@@ -1,0 +1,6 @@
+{
+  "name": "Industrial Protocol Packet Analyzer (工控通訊封包解析與除錯工具)",
+  "description": "Professional industrial protocol packet analyzer and debugger supporting Modbus RTU, Modbus ASCII, Modbus TCP, and Mitsubishi MC Protocol (3E frame). Features field breakdown, CRC/LRC verification, multi-endian data conversion, packet builder, and Python script generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
